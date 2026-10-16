@@ -62,7 +62,6 @@ If you run a small shop and need POS software that works offline and keeps clean
 is actively looking for contributors, especially around SAF-T (AO) export, signed and chained
 invoices and AGT certification.
 
-📧 **iron8dao@gmail.com**
-📨 **Telegram:** [@Asiertradingpreview](https://t.me/Asiertradingpreview)
-
-</content>
+📧 **Email:** iron8dao@gmail.com<br>
+𝕏 **X / Twitter:** [@Aseircreations](https://x.com/Aseircreations)<br>
+📡 **Live alert previews:** [Aseir Trading on Telegram](https://t.me/Asiertradingpreview)
