@@ -64,4 +64,4 @@ invoices and AGT certification.
 
 📧 **Email:** iron8dao@gmail.com<br>
 𝕏 **X / Twitter:** [@Aseircreations](https://x.com/Aseircreations)<br>
-📡 **Live alert previews:** [Aseir Trading on Telegram](https://t.me/Asiertradingpreview)
+📡 **Live alert previews:** [Aseir Trading on Telegram](https://t.me/Aseirtradingpreview)
